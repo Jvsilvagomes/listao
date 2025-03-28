@@ -1,6 +1,6 @@
-let raio = 7
-quadrado = raio * raio
-calculo = quadrado * 3.14
+let raio = 7;
+quadrado = raio * raio;
+calculo = quadrado * 3.14;
 
 console.log(`O raio é de ${caculo}!`)
 
