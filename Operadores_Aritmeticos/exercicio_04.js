@@ -1,5 +1,5 @@
-let dinheiro = 100
-let pessoas = 4
+let dinheiro = 100;
+let pessoas = 4;
 
 console.log(`Cada um ficará com ${dinheiro / pessoas} reais`)
 
