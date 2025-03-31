@@ -1,6 +1,6 @@
 let base = 15;
 let altura = 10;
- area = base*altura; 
+ area = base * altura; 
 
  console.log(`A área do retangulo é de ${area} `)
 
