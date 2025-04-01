@@ -8,3 +8,4 @@ if(numero1 > numero2){
 }else{
     console.log(`Os numeros são iguais`)
 }
+// joao victor da silva gomes 01/04/2025 19:57
