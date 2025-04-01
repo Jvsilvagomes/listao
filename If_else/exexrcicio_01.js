@@ -1,4 +1,4 @@
-let numero = -10
+let numero = -10;
 
 if(numero >= 1){
     console.log(`O ${numero} é positivo!`)
