@@ -5,7 +5,7 @@ let numb3 = 999;
 if(numb1 < numb2 && numb1 < numb3){
     console.log(`O primeiro numero é o menor numero entre os 3`);
 }else if(numb2 < numb1 && numb2 < numb3){
-    console.log(`O segundo numero é o menor nuemro entre os 3  `);
+    console.log(`O segundo numero é o menor nuemro entre os 3`);
 }else if(numb3 < numb1 && numb3 < numb2){
     console.log(`O terceiro numero é o menor numero entre os 3`);
 }else{
