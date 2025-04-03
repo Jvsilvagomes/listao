@@ -1,4 +1,4 @@
-let dia = 3
+let dia = 3;
 switch(dia){
     case 1:
         console.log(`Domingo`);
