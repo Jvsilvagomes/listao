@@ -6,4 +6,4 @@ let numero = 55
         console.log(`O ${numero} não atende as condições!!`)
     }
 
-// Joao Victor daa Silva Gomes 01/04/2025 17:18
+// Joao Victor da Silva Gomes 01/04/2025 17:18
