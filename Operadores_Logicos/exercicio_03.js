@@ -9,7 +9,7 @@ if(numb1 <= 100){
 }
     if (numb2 <= 100){
     console.log(`Não passou de 100!`);
-}else{(numb3 > 100)
+}else{(numb2 > 100)
     console.log(`Passou de 100!`);
 }
 if (numb3 <= 100){
